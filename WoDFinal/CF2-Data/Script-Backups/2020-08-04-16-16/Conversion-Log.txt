@@ -1,0 +1,11 @@
+Converting script [1 / 1]	[\Scripts\playerController.cs]
+	Fragments : 2
+		[ 0] : Line:   21	InputMethod   GetAxisRaw          	("Horizontal")
+		[ 1] : Line:   22	InputMethod   GetAxisRaw          	("Vertical")
+
+
+1 scripts modified!
+Overwriting actual scripts...
+	[0 / 1] from  [D:/Waves of Dead/WoD/CF2-Data/Script-Backups/2020-08-04-16-16\Assets-After/\Scripts\playerController.cs] to [D:/Waves of Dead/WoD/Assets/\Scripts\playerController.cs]
+
+Overwriting COMPLETED!
